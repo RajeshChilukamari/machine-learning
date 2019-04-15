@@ -1,0 +1,24 @@
+1. numpy ---  
+		math computations
+
+
+2. sklearn -- 
+		supervised ml topics
+
+
+3. pandas -- 
+		read csv files
+
+
+4. tensorflow -- 
+		contain datasets
+
+
+5. keras
+
+
+6. quandl -- 
+		financial datasets
+
+7. matplotlib --
+		pltting

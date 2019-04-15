@@ -1,0 +1,46 @@
+sklearn -- scikit learn(machine learning algorithms)
+
+	Supervised learning
+		Generalized linear models 
+		Support Vector Machines 
+		Stochastic Gradient Descent 
+		Nearest Neighbours 
+		Gaussian Processes 
+		Partial least squares 
+		Naive bayes 
+		Decision trees 
+		Ensemble methods
+		Mmulticlass and multilebel algorithms
+		Feature selection 
+		Semi-supervised 
+		Linear and quadratic discriminant analysis 
+		Isotonic regression 
+
+	Unsupervised learning 
+		Gaussian mixture models 
+		Manifold learning 
+		Clustering 
+		Decomposing signals in components
+		Covariance estimation
+		Novelty and outlier detection
+		Hidden Markov models 
+
+	Model selection and evaluation 
+		Cross-validation: evaluating estimator performance 
+		Grid search: setting estimated parameters 
+		Pipeline: chaining estimators 
+		FeatureUnion: combining future extractors 
+		Model evaluation 
+
+	Dataset Transformations 
+		Preprocessing data 
+		Feature Extraction 
+		Kernel Approximation 
+		Random Projection 
+		Pairwise Metrics, Affinities and Kernels 
+
+	Dataset Loading Utilities 
+		General Dataset API 
+		Sample Images 
+		Sample Generators
+

@@ -1,0 +1,13 @@
+numpy -- 
+	Linear Algebra, 
+	Fourier Transforms,
+	Statistics,
+	Sorting, searching and counting
+	Polynomials,
+	Random Sampling,
+	Binary and string operations,
+	Financial functions,
+	Random Number Generation, 
+	mathematical operations over arrays[multi-demensional arrays]  and 
+	matrices
+
